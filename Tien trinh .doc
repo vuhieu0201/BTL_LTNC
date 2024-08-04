@@ -1,0 +1,29 @@
+1. Khởi tạo và cấu hình SDL
+Tiến trình:
+Khởi tạo các thư viện cần thiết: Bao gồm các thư viện SDL2 và các thư viện tiêu chuẩn C++.
+Xác định các hằng số và cấu trúc dữ liệu: Định nghĩa các kích thước của cửa sổ, bệ đỡ bóng, viên bóng, và các viên gạch.
+Tạo cấu trúc Brick để lưu trữ thông tin về các viên gạch.
+2. Khởi tạo SDL và tạo cửa sổ và renderer
+Tiến trình:
+Khởi tạo SDL: Gọi SDL_Init để khởi tạo thư viện SDL.
+Tạo cửa sổ và renderer: Sử dụng SDL_CreateWindow để tạo cửa sổ trò chơi và SDL_CreateRenderer để tạo renderer cho việc vẽ lên cửa sổ.
+3. Hiển thị menu chính và xử lý lựa chọn của người chơi
+Tiến trình:
+Vòng lặp menu chính: Hiển thị menu chính và xử lý sự kiện từ người chơi.
+Xử lý sự kiện: Xử lý sự kiện nhấn phím để chọn chế độ trò chơi.
+4. Khởi tạo đối tượng trò chơi
+Tiến trình:
+Khởi tạo các đối tượng trò chơi: Tạo bệ đỡ bóng, viên bóng, và các viên gạch.
+Tạo danh sách các viên gạch: Sử dụng vòng lặp để thêm các viên gạch vào danh sách bricks, tùy thuộc vào chế độ trò chơi.
+5. Vòng lặp chính của trò chơi
+Tiến trình:
+Xử lý sự kiện: Kiểm tra các sự kiện từ người chơi (như thoát trò chơi).
+Điều khiển bệ đỡ bóng: Cập nhật vị trí của bệ đỡ bóng dựa trên các phím được nhấn.
+Cập nhật vị trí viên bóng: Cập nhật vị trí của viên bóng và xử lý va chạm với các đối tượng.
+Kiểm tra va chạm với viên gạch: Kiểm tra va chạm giữa viên bóng và các viên gạch, cập nhật trạng thái gạch nếu bị va chạm.
+Vẽ các đối tượng: Vẽ bệ đỡ bóng, viên bóng, và các viên gạch lên renderer.
+Đảm bảo tốc độ khung hình: Sử dụng SDL_Delay để duy trì tốc độ khung hình khoảng 60 FPS
+6. Dọn dẹp và kết thúc trò chơi
+Tiến trình:
+Dọn dẹp tài nguyên: Hủy renderer và cửa sổ, sau đó gọi SDL_Quit để dọn dẹp SDL.
+Kết thúc chương trình: Trả về 0 để chỉ báo chương trình kết thúc thành công.
