@@ -1,5 +1,3 @@
-
-
 #define FONT_MENU 0
 #define FONT_ANNOUNCE_GOOD 1
 #define FONT_ANNOUNCE_BAD 2
