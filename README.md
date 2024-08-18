@@ -33,10 +33,16 @@ Phá Hủy Gạch: Sử dụng bóng để phá hủy các viên gạch. Mỗi v
 Hoàn Thành Cấp Độ: Để chuyển sang cấp độ tiếp theo, bạn cần phá hủy tất cả các viên gạch trên màn hình..
 I)Phiên bản đầu tiên với chế độ phá gạch bình thường:
 ![image](https://github.com/user-attachments/assets/bafee8d1-56c5-47bf-a461-8e319fa93b16)
+![image](https://github.com/user-attachments/assets/6f7c68df-cc18-49b2-b7ff-aa6a1ae22a1f)
+
 II)Phiên bản thứ 2 với độ khó được tăng lên:
 ![image](https://github.com/user-attachments/assets/e42d5ee7-2155-468a-bee7-9b1e23720b3b)
+![image](https://github.com/user-attachments/assets/04efba35-55b1-4071-be00-f9ce9c0ec993)
+
 III)Phiên bản cuối với độ khó khi di chuyển cả 2 bệ đỡ 
 ![image](https://github.com/user-attachments/assets/f6a5a912-bf8d-4374-81f5-e3fcf8fc3440)
+![image](https://github.com/user-attachments/assets/99667964-f2ec-4b90-b666-e0a049f9c838)
+
 
 
 
