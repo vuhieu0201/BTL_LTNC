@@ -44,7 +44,8 @@ II)Phiên bản thứ 2 với độ khó được tăng lên:
 
 III)Phiên bản cuối với độ khó khi di chuyển cả 2 bệ đỡ 
 ![image](https://github.com/user-attachments/assets/f6a5a912-bf8d-4374-81f5-e3fcf8fc3440)
-![image](https://github.com/user-attachments/assets/99667964-f2ec-4b90-b666-e0a049f9c838)
+![2sdpl515](https://github.com/user-attachments/assets/d3531459-d12b-4dd2-9beb-8be8621a90ee)
+
 
 
 
