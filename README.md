@@ -38,7 +38,8 @@ I)Phiên bản đầu tiên với chế độ phá gạch bình thường:
 
 II)Phiên bản thứ 2 với độ khó được tăng lên:
 ![image](https://github.com/user-attachments/assets/e42d5ee7-2155-468a-bee7-9b1e23720b3b)
-![image](https://github.com/user-attachments/assets/bbaf6e09-2e55-4275-b2cf-14799cf904ff)
+![hg8guf7p](https://github.com/user-attachments/assets/c6d6d8d4-64ec-455c-8dfb-6484d6c7a009)
+
 
 
 III)Phiên bản cuối với độ khó khi di chuyển cả 2 bệ đỡ 
